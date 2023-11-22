@@ -39,16 +39,16 @@
 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/c75beda4-4587-4d05-98f4-7cb3c4af157a)
 
 ### Измененные параметры(изменения уровня сложности) :
--1) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/5e88e944-1f3b-4055-9b7e-57fdd00782a5)
--2) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/6c9b5bd2-2705-4d91-8e72-6065fd48a485)
--3) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/da12dec1-5f7f-4a58-a242-dad38cc3f05a)
--4) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ba6b1bb8-23c6-4c52-bf38-208573e49ed8)
--5) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/3cce0a8c-951f-4db9-a5ca-3e4c9fab42ec)
--6) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ebb82ff7-5812-45a6-8ef3-f9527b4ede26)
--7) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/3899b555-0505-4484-a6f8-870b4744f489)
--8) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/0ade9384-dfb5-4e17-9e58-57c3be754d10)
--9) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/4fc81f62-8817-4d85-9b49-3025b3a2b0ae)
--10) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ed0284f9-45d2-439d-9657-0e422c575f55)
+1) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/5e88e944-1f3b-4055-9b7e-57fdd00782a5)
+2) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/6c9b5bd2-2705-4d91-8e72-6065fd48a485)
+3) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/da12dec1-5f7f-4a58-a242-dad38cc3f05a)
+4) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ba6b1bb8-23c6-4c52-bf38-208573e49ed8)
+5) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/3cce0a8c-951f-4db9-a5ca-3e4c9fab42ec)
+6) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ebb82ff7-5812-45a6-8ef3-f9527b4ede26)
+7) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/3899b555-0505-4484-a6f8-870b4744f489)
+8) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/0ade9384-dfb5-4e17-9e58-57c3be754d10)
+9) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/4fc81f62-8817-4d85-9b49-3025b3a2b0ae)
+10) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab3/assets/129764703/ed0284f9-45d2-439d-9657-0e422c575f55)
 
 ## Задание 3
 ### Решение в 80+ баллов должно заполнять google-таблицу данными из Python. В Python данные также должны быть визуализированы.
